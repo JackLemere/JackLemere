@@ -2,4 +2,4 @@
 
 ### About Me
 
-Data analyst based in Ottawa, ON currently working as a Data Annotator for Theia. I enjoy turning data into valuable insights and applying my techinical skills wherever possible.
+Data analyst based in Ottawa, ON currently working as a Data Annotator for Theia. I enjoy turning rich data into valuable insights for others and applying my technical skills in Python, SQL, Excel, and Tableau wherever possible. 
