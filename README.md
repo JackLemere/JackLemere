@@ -31,7 +31,7 @@ Analysis concluded that some products heavily outweighed others in total sales a
 -	 Seek opportunities for improving financial inclusion in Canada
 
 **Results:** 
-Main findings showed that less educated and less experienced individuals appear to be most disadvantaged by current job market trends. Current trends show that while jobs of all types have been declining in recent years, the jobs with lower education and experience requirements are declining at a much faster pace. Those seeking these types of jobs will likely see higher competition compared to previous years and may be at higher risk of reduced financial opportunity.
+Main findings showed that less educated and less experienced individuals appear to be most disadvantaged by current job market trends. Current trends show that while jobs of all types have been declining in recent years, the jobs with lower education and experience requirements are declining at a much faster pace. Those seeking these types of jobs will likely see higher competition compared to previous years and may be at higher risk of reduced financial opportunities.
 
 <br>
 
