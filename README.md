@@ -17,7 +17,7 @@ Below are some of the analysis projects I have worked on – accompanied with re
 -	Identify time periods where sales were highest and lowest.
 
 **Results:**
-Analysis concluded that some products heavily outweighed others in total sales and that these high selling products should be the main focus of the shop going forward. Other lower selling products could be removed and replaced with new products. Findings showed very few customers purchased more than one item on the store, and that strategies such as offering bundled deals could help increase ARPC. 
+Analysis concluded that some products heavily outweighed others in total sales and that these high selling products should be the main focus of the shop going forward. Other lower selling products should be removed and replaced with new products more closely inline with the higher selling products. Findings showed very few customers purchased more than one item on the store, and that strategies such as offering bundled deals could help increase ARPC. 
 
 <br> 
 
